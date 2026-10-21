@@ -1,0 +1,5 @@
+﻿,age,age,age,bmi,bmi,bmi,HbA1c_level,HbA1c_level,HbA1c_level,blood_glucose_level,blood_glucose_level,blood_glucose_level
+,mean,median,std,mean,median,std,mean,median,std,mean,median,std
+diabetes,,,,,,,,,,,,
+0,40.12,40.0,22.31,26.89,27.32,6.37,5.4,5.8,0.97,132.85,140.0,34.25
+1,60.95,62.0,14.55,31.99,29.97,7.56,6.93,6.6,1.08,194.09,160.0,58.64
